@@ -1,0 +1,5 @@
+Quantitative and Digital Skills
+Conducted portfolio and investment analysis using historical financial data from Yahoo Finance. 
+Prepared and structured financial datasets in Microsoft Excel and Google Sheets. 
+Calculated daily stock returns and applied statistical measures including average return, standard deviation, correlation, and linear regression analysis. 
+Demonstrated quantitative analysis, financial data interpretation, and spreadsheet modeling skills.
