@@ -1,0 +1,4 @@
+Quantitative and Digital Skills
+Conducted a customer base audit using spreadsheet-based analytical techniques. Prepared and structured customer datasets in Microsoft Excel. 
+Applied tabulation methods, decile segmentation, and cohort analysis to evaluate customer distribution, purchasing behavior, and retention patterns. 
+Generated analytical tables and visualizations to interpret customer health indicators and repeat buying behavior. Demonstrated quantitative analysis, data organization, and spreadsheet modeling skills for customer analytics and business decision support.
